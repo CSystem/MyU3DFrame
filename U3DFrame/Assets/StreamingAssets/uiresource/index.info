@@ -1,0 +1,1 @@
+{"package_ui":{"hash":"11111", "path":"uiresource/package_ui.bytes", "dependencies":{"dependent_0":"horse", "dependent_1":"package_fantasy_atlas"}, "name":"package_ui"}, "package_fantasy_atlas":{"hash":"c53c604129fe4fe9f2e47b71296abdcb", "path":"uiresource/package_fantasy_atlas.bytes", "dependencies":{}, "name":"package_fantasy_atlas"}}

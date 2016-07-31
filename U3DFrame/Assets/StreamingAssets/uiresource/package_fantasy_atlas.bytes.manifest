@@ -1,0 +1,36 @@
+ManifestFileVersion: 0
+CRC: 3650661936
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: c53c604129fe4fe9f2e47b71296abdcb
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 75865764e04622e59a2f8342e52ef9d3
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 0b4eb3a400afab046abb8471a9d746d6, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 4d0c51bb0b6e93049af5e88f93826e3b, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+Assets:
+- Assets/Art/UiResource/package_Fantasy_Atlas/Fantasy Atlas.psd
+- Assets/Art/UiResource/package_Fantasy_Atlas/Fantasy Font - Normal.prefab
+- Assets/Art/UiResource/package_Fantasy_Atlas/Fantasy Atlas.prefab
+- Assets/Art/UiResource/package_Fantasy_Atlas/Fantasy Font - Normal.txt
+- Assets/Art/UiResource/package_Fantasy_Atlas/Fantasy Atlas.mat
+Dependencies: []

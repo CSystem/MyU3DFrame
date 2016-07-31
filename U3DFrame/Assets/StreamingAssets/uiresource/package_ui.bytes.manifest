@@ -1,0 +1,46 @@
+ManifestFileVersion: 0
+CRC: 4260581436
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 4151bfd8585d0e710ad9066078e78115
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 0172b309b3630f5c8f637fca887b0514
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 65
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: ae942c9068183dc40a9d01f648273726, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 90cda7b31545ad642b7ecb81a697a867, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: e9d0b5f3bbe925a408bd595c79d0bf63, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: d5c5ca47aa5c01740810b7c66662099f, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 4d0c51bb0b6e93049af5e88f93826e3b, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 1b3dc54f924693f41b5cbecb267e647a, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 128
+  Script: {instanceID: 0}
+Assets:
+- Assets/Art/UiResource/package_ui/test.prefab
+- Assets/Art/UiResource/package_ui/test1.prefab
+- Assets/Art/UiResource/package_ui/test2.prefab
+Dependencies:
+- C:/Projects/U3DFrame/Assets/StreamingAssets/horse.bytes
+- C:/Projects/U3DFrame/Assets/StreamingAssets/uiresource/package_fantasy_atlas.bytes

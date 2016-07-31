@@ -1,0 +1,14 @@
+ManifestFileVersion: 0
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: horse.bytes
+      Dependencies: {}
+    Info_1:
+      Name: uiresource/package_fantasy_atlas.bytes
+      Dependencies: {}
+    Info_2:
+      Name: uiresource/package_ui.bytes
+      Dependencies:
+        Dependency_0: horse.bytes
+        Dependency_1: uiresource/package_fantasy_atlas.bytes

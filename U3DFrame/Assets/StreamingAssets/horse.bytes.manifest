@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 544191144
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: d5c7d9362e5452dcf523b0cbabb79dda
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 6759894fca659e2049f05064db45ce61
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+Assets:
+- Assets/Art/horse_jisheshou.png
+Dependencies: []
